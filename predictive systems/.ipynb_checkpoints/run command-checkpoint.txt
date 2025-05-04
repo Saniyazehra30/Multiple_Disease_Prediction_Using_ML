@@ -1,0 +1,1 @@
+streamlit run "C:\Users\rizvi\OneDrive\Desktop\aicte internship\predictive systems\multiple disease prediction.py"
