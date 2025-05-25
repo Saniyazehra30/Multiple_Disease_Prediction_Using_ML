@@ -8,7 +8,7 @@ A multi-disease prediction platform leveraging machine learning to assist health
 Modern healthcare faces challenges due to the complexity of diseases and massive clinical data. This project addresses the diagnostic delay and human error risk by providing an AI-assisted diagnostic system built on ML models, integrated into a unified and intuitive web interface.
 
 **Average Model Accuracy**: **89.2%**  
-**Technologies Used**: Python, Flask, Streamlit, Scikit-learn, Anaconda, Bootstrap
+**Technologies Used**: Python, Streamlit, Scikit-learn, Anaconda, Spyder, Jupyter Notebook
 
 ## 🩺 Supported Disease Models
 
@@ -28,11 +28,10 @@ Each model is trained using public and clinical datasets and utilizes tailored a
 
 ### Backend
 - Python 3.9+
-- Scikit-learn, Pandas, NumPy
+- Scikit-learn, Pandas, NumPy, Seaborn
 - SHAP (planned for model explainability in Future )
 
 ### Frontend
-- Flask
 - Streamlit
 
 ### Tools & Environment
